@@ -1,11 +1,11 @@
-# Lukasz Kus
+# Luryxyt
 
-**`Full-Stack Developer)`**
+**`Full-Stack Developer`**
 
 I am a full-stack developer, creating interesting projects and sharing them with others. My projects cover a wide range of technologies, from backend to frontend, and experiment with different tools and frameworks. I share code on GitHub.
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -22,7 +22,7 @@ I am a full-stack developer, creating interesting projects and sharing them with
 <br />
 
 
-### 📊 Stats
+### Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lukaszkusgithub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukaszkusgithub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
